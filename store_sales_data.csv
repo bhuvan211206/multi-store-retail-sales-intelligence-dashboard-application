@@ -1,0 +1,36 @@
+Store,Month,Category,Revenue_Lakhs,Annual_Target_Lakhs,Gross_Margin_Pct,Daily_Footfall,Conversion_Rate_Pct,Avg_Basket_Size_Rs,Units_Sold,COGS_Pct,Region
+South Plaza,Jan,Beauty,28.99,380,33.79,682,23.52,2177,1129,55.86,South
+North Mall,Feb,Beauty,38.86,420,39.15,837,18.54,2794,1060,49.02,North
+East Hub,Apr,Home & Living,21.85,350,28.16,570,15.31,1859,776,59.1,East
+East Hub,Feb,Electronics,23.38,350,28.95,623,14.9,1897,1773,60.97,East
+West Gate,Jul,Electronics,24.8,310,30.56,593,15.85,1749,882,59.23,South
+North Mall,May,Apparel,42.45,420,36.17,994,16.04,2707,1259,48.01,North
+City Centre,Mar,Beauty,39.64,500,40.43,1218,25.32,3175,649,46.44,North
+North Mall,Apr,Beauty,36.14,420,36.92,919,19.06,2874,671,52.23,North
+City Centre,Jan,Groceries,38.65,500,42.92,1151,25.93,3016,1107,41.9,North
+West Gate,Jan,Electronics,19.04,310,30.72,424,12.8,1831,1606,53.96,South
+West Gate,May,Apparel,24.65,310,30.88,599,14.74,1672,946,58.88,South
+North Mall,Mar,Home & Living,37.57,420,37.55,906,16.01,2818,1307,49.99,North
+East Hub,May,Groceries,29.65,350,30.24,662,15.9,1889,1105,57.02,East
+South Plaza,Jul,Groceries,39.14,380,34.26,829,22.67,2174,1089,53.18,South
+West Gate,Jun,Home & Living,22.3,310,29.47,606,12.75,1945,1153,58.91,South
+North Mall,Jan,Electronics,34.43,420,34.97,772,19.4,2838,697,53.22,North
+City Centre,May,Apparel,47.87,500,42.52,1315,24.76,3243,1519,44.29,North
+North Mall,Jul,Home & Living,46.49,420,39.13,1105,17.09,2980,779,47.07,North
+West Gate,Mar,Groceries,23.02,310,31.82,529,12.8,1829,1329,56.22,South
+East Hub,Jun,Apparel,27.52,350,28.45,707,13.78,2004,925,59.23,East
+South Plaza,Feb,Apparel,30.36,380,35.39,640,22.68,2387,1318,53.24,South
+City Centre,Jul,Home & Living,52.03,500,42.57,1433,25.5,3085,1254,45.76,North
+South Plaza,May,Groceries,34.64,380,34.45,792,22.35,2132,1269,54.58,South
+South Plaza,Apr,Groceries,28.5,380,35.75,698,20.91,1912,959,48.28,South
+East Hub,Jan,Electronics,20.05,350,30.18,597,14.18,2046,1323,55.87,East
+City Centre,Apr,Home & Living,47.27,500,46.59,1199,25.72,3132,1217,40.49,North
+City Centre,Jun,Groceries,46.13,500,40.73,1443,26.17,3063,1351,46.27,North
+East Hub,Mar,Electronics,24.28,350,28.79,587,15.74,1905,1433,58.9,East
+West Gate,Feb,Apparel,19.15,310,30.23,539,14.09,1813,1728,59.19,South
+City Centre,Feb,Apparel,40.29,500,40.46,1199,24.55,3142,981,46.22,North
+West Gate,Apr,Groceries,24.03,310,31.77,577,17.85,1807,1540,54.02,South
+East Hub,Jul,Apparel,25.48,350,32.0,641,16.2,1965,1242,56.5,East
+North Mall,Jun,Groceries,41.56,420,39.63,1028,16.92,2768,1403,46.63,North
+South Plaza,Jun,Apparel,34.22,380,34.66,895,21.26,2189,1054,52.74,South
+South Plaza,Mar,Beauty,29.26,380,36.49,698,21.68,2232,716,49.22,South
